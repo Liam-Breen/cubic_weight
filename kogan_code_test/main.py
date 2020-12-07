@@ -47,5 +47,4 @@ if __name__ == "__main__":
     get_air_conditioner_dimensions(page)
     cubic_centimeter = get_cubic_weight()
     average_cubic_weight = get_average_cubic_weight(cubic_centimeter)
-    print(type(average_cubic_weight))
     print(f'average cubic grams: {average_cubic_weight}\naverage cubic kilograms: {average_cubic_weight / 1000}')
