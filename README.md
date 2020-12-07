@@ -1,6 +1,8 @@
 # kogan_code_test
 Code test for Kogan.END#Python
 
+Language Python
+
 How to run on Linux and MacOS
 decompress kogan_code_test.tgz or git clone this repo.
 
