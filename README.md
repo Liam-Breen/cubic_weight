@@ -1,5 +1,5 @@
-# kogan_code_test
-Code test for Kogan.END#Python
+# Cubic Weight
+Get cubic weight of all fridges listed in an API.END#Python
 
 Language Python
 
